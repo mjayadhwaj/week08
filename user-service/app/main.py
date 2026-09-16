@@ -1,4 +1,4 @@
-# SIT722 Week 08 CI/CD pipeline trigger
+# SIT722 Week 08 CI/CD pipeline trigger verification
 import logging
 import os
 import time
