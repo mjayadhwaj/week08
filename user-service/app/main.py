@@ -1,3 +1,4 @@
+# SIT722 Week 08 CI/CD pipeline trigger
 import logging
 import os
 import time
